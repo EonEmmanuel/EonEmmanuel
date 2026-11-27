@@ -86,7 +86,7 @@ I take a product-oriented approach to engineering, combining independent problem
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=4" />
+<img src="https://skillicons.dev/icons?i=postgres,sql&perline=4" />
 
 </td>
 <td width="50%" valign="top">
