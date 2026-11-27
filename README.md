@@ -1,168 +1,169 @@
 
-<!-- ================================================= -->
-<!-- EMMANUEL TRESOR | GITHUB PROFILE -->
-<!-- ================================================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,50:102747,100:174A83&height=190&section=header&text=EMMANUEL%20TRÉSOR&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%2F%20FULL-STACK%20%2F%20AI-ASSISTED%20ENGINEERING&descSize=12&descAlignY=68&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,50:172554,100:2563EB&text=EMMANUEL%20TRÉSOR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
-### Engineering ideas into products.
+**Building useful software. Exploring what AI makes possible.**
 
-Building full-stack applications, backend systems and AI-powered software.
+📍 Cameroon · 🌍 Open to Remote Opportunities · 🗣️ English & French
 
-<br/>
-
-<a href="mailto:emmanueltresor027@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact%20me-172B46?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/EonEmmanuel">
-  <img src="https://img.shields.io/badge/GITHUB-EonEmmanuel-172B46?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/BASED%20IN-Cameroon-172B46?style=flat-square"/>
+[GitHub](https://github.com/EonEmmanuel) · [MTN Elite](https://www.mtnelite.com/)
 
 </div>
 
 ---
 
-## 01 / ABOUT
+## 👋 whoami
 
-I'm Emmanuel, a software engineer interested in building practical software products and solving engineering problems.
+```json
+{
+  "name": "Emmanuel Trésor",
+  "role": "Software Engineer",
+  "experience": "3+ years",
+  "location": "Cameroon",
+  "availability": "Open to remote opportunities",
+  "focus": [
+    "Full-stack development",
+    "AI-assisted software engineering",
+    "Building digital products"
+  ],
+  "frontend": ["JavaScript", "TypeScript", "React", "Next.js"],
+  "backend": ["Node.js", "NestJS", "Python", "FastAPI"],
+  "mobile": ["React Native"],
+  "database": ["PostgreSQL", "SQL"],
+  "workflow": ["Git", "Docker", "AI coding tools"],
+  "currently": "Building and improving real-world software products"
+}
+```
 
-My work spans frontend applications, backend architecture, API integrations, media infrastructure and AI-powered systems.
+I'm a software engineer with around 3 years of experience building web applications and digital products.
 
-I use AI development tools as part of my engineering workflow — from exploring architecture and implementing features to debugging, testing and refining applications.
+I work across frontend and backend development, with a strong interest in product engineering and practical AI integration.
 
-**Current interests:** Full-stack engineering · AI integration · Backend systems · Real-time infrastructure.
+I also use AI development tools such as Claude, ChatGPT, Gemini and Codex to accelerate implementation, explore solutions, debug and improve development workflows.
 
 ---
 
-## 02 / TECHNOLOGY
+## 🧰 Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" />
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vercel" />
+
+**AI Development Tools**
+
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-202123?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
+
+---
+
+## 🚀 Selected Projects
+
+### 01. Cadastra
+**AI-assisted cadastral verification platform**
+
+A platform designed to assist with cadastral information extraction, geospatial processing and automated report generation.
+
+`Next.js` `TypeScript` `Python` `FastAPI` `Shapely`
+
+[View Repository →](https://github.com/EonEmmanuel/Cadastra)
+
+### 02. EonPay
+**Multi-tenant phone-financing platform**
+
+Independently designed and led development of a platform combining a web dashboard, backend services and Android device-management integration.
+
+`React` `TypeScript` `NestJS` `PostgreSQL` `Kotlin`
+
+[View Repository →](https://github.com/EonEmmanuel/Eon_Pay)
+
+### 03. Streaming SaaS
+**Live streaming infrastructure and management**
+
+A full-stack streaming platform supporting RTMP/SRT ingestion and HLS playback, with stream management, authentication and monitoring.
+
+`React` `Node.js` `Express` `PostgreSQL` `Docker` `SRS`
+
+[View Repository →](https://github.com/EonEmmanuel/streamingSaass)
+
+### 04. MTN Elite
+**Cameroonian football media platform**
+
+A deployed web platform covering Cameroonian football, built with a React frontend and Node.js backend services.
+
+`React` `Node.js` `REST APIs` `Vercel`
+
+[Visit Website →](https://www.mtnelite.com/)
+
+---
+
+## 📊 GitHub in Numbers
 
 <div align="center">
 
-**LANGUAGES**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EonEmmanuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,sql&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EonEmmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
 
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,vite,tailwind&theme=dark" />
-
-**BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,prisma&theme=dark" />
-
-**TOOLS & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=EonEmmanuel&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 🔭 What I'm Up To
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EonEmmanuel/Cadastra">
-<img src="https://opengraph.githubassets.com/1/EonEmmanuel/Cadastra" width="100%" alt="Cadastra repository preview"/>
-</a>
-
-### Cadastra
-
-AI-assisted cadastral verification and geospatial processing platform.
-
-`Next.js` `Python` `FastAPI` `Geospatial` `AI`
-
-<a href="https://github.com/EonEmmanuel/Cadastra">EXPLORE PROJECT ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EonEmmanuel/Eon_Pay">
-<img src="https://opengraph.githubassets.com/1/EonEmmanuel/Eon_Pay" width="100%" alt="EonPay repository preview"/>
-</a>
-
-### EonPay
-
-Multi-tenant phone-financing platform with backend services and Android device-management integration.
-
-`React` `NestJS` `PostgreSQL` `Kotlin`
-
-<a href="https://github.com/EonEmmanuel/Eon_Pay">EXPLORE PROJECT ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/EonEmmanuel/streamingSaass">
-<img src="https://opengraph.githubassets.com/1/EonEmmanuel/streamingSaass" width="100%" alt="Streaming SaaS repository preview"/>
-</a>
-
-### Streaming SaaS
-
-Full-stack live streaming platform built around SRS, with RTMP/SRT ingestion and HLS playback.
-
-`React` `Node.js` `Docker` `SRS`
-
-<a href="https://github.com/EonEmmanuel/streamingSaass">EXPLORE PROJECT ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.mtnelite.com/">
-<img src="https://image.thum.io/get/width/900/crop/600/noanimate/https://www.mtnelite.com/" width="100%" alt="MTN Elite website preview"/>
-</a>
-
-### MTN Elite
-
-Live football media platform covering Cameroonian football, built with a React frontend and Node.js serverless backend.
-
-`React` `Node.js` `REST API` `Vercel`
-
-<a href="https://www.mtnelite.com/">VISIT LIVE PRODUCT ↗</a>
-
-</td>
-</tr>
-</table>
+- 🏗️ Building full-stack applications and digital products.
+- 🤖 Integrating AI into practical software development workflows.
+- 🌍 Exploring opportunities in international remote software engineering.
+- 📱 Exploring mobile development with React Native.
+- 🧠 Improving my software architecture and backend engineering skills.
 
 ---
 
-## 04 / GITHUB ACTIVITY
+## 🎓 Background
+
+**Education**
+
+- B.Tech in Software Engineering — IUG–ISTA, Cameroon.
+- ALX Africa — Software Engineering, Back-End Specialization.
+
+**Professional Experience**
+
+- Backend Developer — iLabs (Remote), 2024–2025.
+- Around 3 years of software development experience.
+
+**Languages**
+
+- English
+- French
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in remote software engineering opportunities, meaningful collaborations and building products that solve real problems.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EonEmmanuel&show_icons=true&hide_border=true&bg_color=080D18&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EonEmmanuel&layout=compact&hide_border=true&bg_color=080D18&title_color=58A6FF&text_color=C9D1D9" />
+[![GitHub](https://img.shields.io/badge/GitHub-EonEmmanuel-181717?style=for-the-badge&logo=github)](https://github.com/EonEmmanuel)
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=EonEmmanuel&theme=transparent&hide_border=true&background=080D18&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-## 05 / CURRENT DIRECTION
-
-- Developing AI-assisted software products.
-- Exploring backend architecture and distributed systems.
-- Building integrations between web applications and external services.
-- Improving software quality, testing and deployment workflows.
-
----
-
-<div align="center">
-
-### Build thoughtfully. Ship meaningfully.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:174A83,50:102747,100:080D18&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:111827,100:2563EB" width="100%" />
 
 </div>
