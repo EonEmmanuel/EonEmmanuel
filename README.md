@@ -1,7 +1,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:142B52,100:2563EB&height=220&section=header&text=EMMANUEL%20TRÉSOR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI-ASSISTED%20DEVELOPMENT&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Emmanuel Tresor profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:142B52,100:2563EB&height=220&section=header&text=EON%20EMMANUEL%20TRÉSOR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI-ASSISTED%20DEVELOPMENT&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Emmanuel Tresor profile banner" />
 </p>
 
 <!-- INTRODUCTION -->
