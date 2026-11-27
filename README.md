@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<a href="https://github.com/EonEmmanuel">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Emmanuel%20Tr%C3%A9sor&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI-Assisted%20Engineering&descAlignY=54&descSize=15" width="100%" alt="Emmanuel Trésor — Software Engineer" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Emmanuel%20Tr%C3%A9sor&fontColor=ffffff&fontSize=48&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=54&descSize=16" width="100%" alt="Emmanuel Trésor" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=3%2B+years+building+software+products;JavaScript+%26+TypeScript+across+the+stack;Exploring+AI-assisted+software+engineering;Turning+ideas+into+working+digital+products" alt="Developer introduction" />
 
@@ -15,40 +13,42 @@
 
 <samp>📍 Cameroon &nbsp;·&nbsp; 🌍 Open to Remote Opportunities &nbsp;·&nbsp; 🗣️ English · French</samp>
 
-<br/><br/>
-
 </div>
 
 ---
 
 ## 👋 whoami
 
-```jsonc
-// emmanuel.json
+```json
 {
   "name": "Emmanuel Trésor",
   "role": "Software Engineer",
   "experience": "3+ years",
-  "location": {
-    "country": "Cameroon",
-    "remote": true
-  },
+  "location": "Cameroon",
+  "availability": "Open to remote opportunities",
   "focus": [
-    "Full-stack applications",
-    "Digital product development",
-    "AI-assisted software engineering"
+    "Full-stack development",
+    "Digital product engineering",
+    "AI-assisted software development"
   ],
-  "stack": {
-    "frontend": ["React", "Next.js", "React Native", "TypeScript"],
-    "backend": ["Node.js", "NestJS", "Python", "FastAPI"],
-    "database": ["PostgreSQL", "SQL"]
-  },
-  "currently": "Building digital products and exploring AI-powered development",
-  "openTo": [
-    "Full-time remote roles",
-    "Software engineering opportunities",
-    "Technical collaboration"
-  ]
+  "frontend": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "React Native"
+  ],
+  "backend": [
+    "Node.js",
+    "NestJS",
+    "Python",
+    "FastAPI"
+  ],
+  "database": [
+    "PostgreSQL",
+    "SQL"
+  ],
+  "currently": "Building digital products and exploring AI-powered development"
 }
 ```
 
@@ -102,8 +102,6 @@ I enjoy taking ideas from concept to implementation and continuously improving h
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 
-<sub>Relational data · Database-backed applications · ORM workflows</sub>
-
 </td>
 <td valign="top" width="50%">
 
@@ -119,60 +117,81 @@ I enjoy taking ideas from concept to implementation and continuously improving h
 </table>
 
 <details>
-<summary><b>🏗️ Architecture, Security & Tooling</b> — <sub>click to expand</sub></summary>
+<summary><b>🏗️ Architecture, Security & Tooling</b> — click to expand</summary>
 
 <br/>
 
-| Area | What I work with |
+| Area | Technologies & Concepts |
 | :--- | :--- |
-| **Architecture** | REST API design · MVC · Multi-tenant application concepts · Full-stack application development |
-| **Security** | JWT · OAuth 2.0 · Authentication and authorization |
+| **Architecture** | REST API design · MVC · Multi-tenant applications |
+| **Security** | JWT · OAuth 2.0 · Authentication & Authorization |
 | **Tools** | Git · GitHub · Postman · Figma · VS Code |
 | **AI Development** | Claude · ChatGPT · Gemini · Codex |
-| **Ways of working** | Agile / Scrum · Debugging · Code reviews · AI-assisted development |
-| **Languages** | 🇬🇧 English · 🇫🇷 French |
+| **Workflow** | Agile · Debugging · Code reviews · AI-assisted development |
 
 </details>
 
 ---
 
-## 📊 GitHub in Numbers
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EonEmmanuel&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=00000000&stroke=30363D&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EonEmmanuel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EonEmmanuel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+
+<img src="https://streak-stats.demolab.com?user=EonEmmanuel&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Up To
+## 🔭 What I'm Up To
 
-- 🏗️ Building **full-stack applications** and independent digital products.
-- 🤖 Exploring **AI-assisted software engineering** and modern coding workflows.
+- 🏗️ Building full-stack applications and independent digital products.
+- 🤖 Exploring AI-assisted software engineering and modern coding workflows.
 - 📱 Developing applications across web and mobile platforms.
-- 📐 Improving my understanding of **software architecture and backend engineering**.
+- 📐 Improving my software architecture and backend engineering skills.
 - 🌍 Exploring opportunities to contribute to international remote development teams.
 
 ---
 
-## 🤝 Let's Build Something
+## 🎓 Background
 
-I'm interested in **full-time remote software engineering opportunities**, meaningful technical collaborations and projects that solve real-world problems.
+**Education**
+
+- B.Tech in Software Engineering — IUG–ISTA, Cameroon.
+- ALX Africa — Software Engineering, Back-End Specialization.
+
+**Professional Experience**
+
+- Backend Developer — iLabs (Remote), 2024–2025.
+- Around 3 years of software development experience.
+
+**Languages**
+
+- English
+- French
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in full-time remote software engineering opportunities, meaningful technical collaborations and building products that solve real-world problems.
 
 <div align="center">
 
-| | |
-| :--- | :--- |
-| 🐙 **GitHub** | [github.com/EonEmmanuel](https://github.com/EonEmmanuel) |
-| ⚽ **Live Project** | [mtnelite.com](https://www.mtnelite.com/) |
+[![GitHub](https://img.shields.io/badge/GitHub-EonEmmanuel-181717?style=for-the-badge&logo=github)](https://github.com/EonEmmanuel)
+
+[![MTN Elite](https://img.shields.io/badge/MTN_Elite-Visit_Live_Project-0EA5E9?style=for-the-badge&logo=vercel)](https://www.mtnelite.com/)
 
 <br/>
 
-<samp><b>Thanks for stopping by — let's build something meaningful. 🚀</b></samp>
+<samp>Thanks for stopping by — let's build something meaningful. 🚀</samp>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
 
 </div>
